@@ -1,0 +1,15 @@
+<ClassDiagram>
+  <Class Name="CommentAttribute" />
+  <Class Name="Animal">
+    <Comment>Реализация абстрактного класса животного</Comment>
+  </Class>
+  <Class Name="Cow">
+    <Comment>Реализация класса коровы на основе животного</Comment>
+  </Class>
+  <Class Name="Lion">
+    <Comment>Реализация класса льва на основе животного</Comment>
+  </Class>
+  <Class Name="Pig">
+    <Comment>Реализация класса свиньи на основе животного</Comment>
+  </Class>
+</ClassDiagram>

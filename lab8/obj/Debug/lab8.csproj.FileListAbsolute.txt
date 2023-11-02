@@ -1,0 +1,11 @@
+D:\consol\lab7\lab8\bin\Debug\lab8.exe.config
+D:\consol\lab7\lab8\bin\Debug\lab8.exe
+D:\consol\lab7\lab8\bin\Debug\lab8.pdb
+D:\consol\lab7\lab8\bin\Debug\lab7.exe
+D:\consol\lab7\lab8\bin\Debug\lab7.pdb
+D:\consol\lab7\lab8\bin\Debug\lab7.exe.config
+D:\consol\lab7\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+D:\consol\lab7\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\consol\lab7\lab8\obj\Debug\lab8.csproj.CopyComplete
+D:\consol\lab7\lab8\obj\Debug\lab8.exe
+D:\consol\lab7\lab8\obj\Debug\lab8.pdb

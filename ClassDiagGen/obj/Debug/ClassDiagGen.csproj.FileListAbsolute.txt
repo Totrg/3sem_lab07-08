@@ -1,0 +1,11 @@
+D:\consol\lab7\ClassDiagGen\obj\Debug\ClassDiagGen.csproj.AssemblyReference.cache
+D:\consol\lab7\ClassDiagGen\obj\Debug\ClassDiagGen.csproj.CoreCompileInputs.cache
+D:\consol\lab7\ClassDiagGen\bin\Debug\ClassDiagGen.exe.config
+D:\consol\lab7\ClassDiagGen\bin\Debug\ClassDiagGen.exe
+D:\consol\lab7\ClassDiagGen\bin\Debug\ClassDiagGen.pdb
+D:\consol\lab7\ClassDiagGen\bin\Debug\lab7.exe
+D:\consol\lab7\ClassDiagGen\bin\Debug\lab7.pdb
+D:\consol\lab7\ClassDiagGen\bin\Debug\lab7.exe.config
+D:\consol\lab7\ClassDiagGen\obj\Debug\ClassDiagGen.csproj.CopyComplete
+D:\consol\lab7\ClassDiagGen\obj\Debug\ClassDiagGen.exe
+D:\consol\lab7\ClassDiagGen\obj\Debug\ClassDiagGen.pdb

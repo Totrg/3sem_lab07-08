@@ -1,0 +1,8 @@
+<ClassDiagram>
+  <Class Name="CommentAttribute" />
+  <Class Name="Animal" />
+  <Class Name="Cow" />
+  <Class Name="Lion" />
+  <Class Name="Pig" />
+  <Class Name="Program" />
+</ClassDiagram>
